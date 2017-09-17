@@ -1,0 +1,17 @@
+{
+  "name": "@redirectr/logo",
+  "version": "1.0.0",
+  "privat": true,
+  "description": "Redirectr Logo",
+  "main": "redirectr.svg",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redirectr/logo.git"
+  },
+  "author": "Nico Lindemann <nico.lindemann@proux.net>",
+  "license": "CC BY-NC-ND 4.0",
+  "bugs": {
+    "url": "https://github.com/redirectr/logo/issues"
+  },
+  "homepage": "https://github.com/redirectr/logo#readme"
+}
