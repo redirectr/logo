@@ -1,1 +1,1 @@
-![redirectr logo](https://rawgit.com/redirectr/logo/master/redirectr.svg "redirectr logo")
+![redirectr logo](https://cdn.jsdelivr.net/gh/redirectr/logo/redirectr.svg "redirectr logo")
